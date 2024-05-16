@@ -1,0 +1,21 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.workingDirectories": [{ "mode": "auto" }],
+  "prettier.useEditorConfig": true,
+  "prettier.configPath": ".prettierrc",
+  "prettier.requireConfig": true,
+  "javascript.validate.enable": false,
+  "typescript.validate.enable": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ]
+}
