@@ -7,6 +7,7 @@ Frontend App for the metrics application.
 - **React**
 - **Chart.js**: For displaying beautiful charts
 - **React-Chartjs-2**: A wrapper for Chart.js for React.
+- **TailWindCSS**: A poweful CSS framework
 - **Docker**
 
 
