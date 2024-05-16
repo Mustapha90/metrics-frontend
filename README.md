@@ -52,4 +52,4 @@ After starting the application with Docker Compose, and making sure that the bac
 [http://localhost:$PORT](http://localhost:$PORT)
 
 ![Untitled](https://github.com/Mustapha90/metrics-frontend/assets/18019846/efddc215-e7f1-4370-8a2d-c90bc13de372)
-:tada
+🎉
