@@ -48,7 +48,7 @@ make up
 
 Start both the backend and front end apps:
 
-After starting the application with Docker Compose, and making sure that the backend is already running, you can access the app at:
+Access the app at:
 
 [http://localhost:$PORT](http://localhost:$PORT)
 
