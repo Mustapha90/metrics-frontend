@@ -7,7 +7,8 @@ Frontend App for the metrics application.
 - **React**
 - **Chart.js**: For displaying beautiful charts
 - **React-Chartjs-2**: A wrapper for Chart.js for React.
-- **Docker**:
+- **Docker**![Untitled](https://github.com/Mustapha90/metrics-frontend/assets/18019846/efddc215-e7f1-4370-8a2d-c90bc13de372)
+
 
 ## Getting Started
 
