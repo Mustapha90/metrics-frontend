@@ -14,4 +14,10 @@ clean:
 
 restart: down up
 
-.PHONY: up build down clean restart
+shell:
+	docker exec -it web bash
+
+test:
+	docker-compose run --rm web npm test -- --watchAll=false
+
+.PHONY: up build down clean restart shell

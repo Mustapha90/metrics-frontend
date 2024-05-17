@@ -46,7 +46,12 @@ function MetricChart({ metricType, frequency }) {
   if (loading) {
     return (
       <div className="flex justify-center items-center h-96">
-        <BounceLoader color="#123abc" loading={loading} size={60} />
+        <BounceLoader
+          color="#123abc"
+          data-testid="bounce-loader"
+          loading={loading}
+          size={60}
+        />
       </div>
     );
   }
